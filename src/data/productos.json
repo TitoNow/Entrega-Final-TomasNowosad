@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1,
+        "nombre": "Procesador AMD AMD Ryzen 5 5600GT 3.60GHz",
+        "precio": 225000,
+        "imagen": "https://www.arrichetta.com.ar/wp-content/uploads/2024/04/CP-AMD-100-100001488BOX-dbde96.jpg",
+        "descripcion": "",
+        "initial": 1,
+        "stock": 5,
+        "categoria": {
+            "id": "procesadores",
+            "nombre": "Procesadores"
+        }
+    },
+    {
+        "id": 2,
+        "nombre": "Procesador AMD AMD Ryzen 5 8500G 3.50GHz",
+        "precio": 275000,
+        "imagen": "https://www.arrichetta.com.ar/wp-content/uploads/2024/03/100-100000931BOX-300x300.jpg",
+        "descripcion": "",
+        "initial": 1,
+        "stock": 5,
+        "categoria": {
+            "id": "procesadores",
+            "nombre": "Procesadores"
+        }
+    },
+    {
+        "id": 3,
+        "nombre": "Procesador AMD AMD Ryzen 5 8600G 4.30GHz",
+        "precio": 365000,
+        "imagen": "https://www.arrichetta.com.ar/wp-content/uploads/2024/04/procesador-amd-ryzen-5-8600g-430ghz-100-100001237box-am5-300x300.jpg",
+        "descripcion": "",
+        "initial": 1,
+        "stock": 5,
+        "categoria": {
+            "id": "procesadores",
+            "nombre": "Procesadores"
+        }
+    },
+    {
+        "id": 4,
+        "nombre": "Procesador AMD AMD Ryzen 7 5700X3D 3.00",
+        "precio": 420000,
+        "imagen": "https://www.arrichetta.com.ar/wp-content/uploads/2024/03/100-100001503WOF-300x300.jpg",
+        "descripcion": "",
+        "initial": 1,
+        "stock": 5,
+        "categoria": {
+            "id": "procesadores",
+            "nombre": "Procesadores"
+        }
+    },
+    {
+        "id": 5,
+        "nombre": "Procesador AMD AMD Ryzen 7 8700G 4.2Ghz",
+        "precio": 540000,
+        "imagen": "https://www.arrichetta.com.ar/wp-content/uploads/2024/04/amd_100_100001236box_ryzen_7_8700g_wraith_1804826-300x300.jpg",
+        "descripcion": "",
+        "initial": 1,
+        "stock": 5,
+        "categoria": {
+            "id": "procesadores",
+            "nombre": "Procesadores"
+        }
+    },
+    {
+        "id": 6,
+        "nombre": "Procesador AMD RYZEN 3 3200G VEGA8",
+        "precio": 105000,
+        "imagen": "https://www.arrichetta.com.ar/wp-content/uploads/2024/04/81DdgQpbMqL-300x300.jpg",
+        "descripcion": "",
+        "initial": 1,
+        "stock": 5,
+        "categoria": {
+            "id": "procesadores",
+            "nombre": "Procesadores"
+        }
+    },
+    {
+        "id": 7,
+        "nombre": "M/B B650M DS3H 1.0",
+        "precio": 255000,
+        "imagen": "https://www.arrichetta.com.ar/wp-content/uploads/2024/03/101890212_4523298421-300x300.jpg",
+        "descripcion": "",
+        "initial": 1,
+        "stock": 5,
+        "categoria": {
+            "id": "motherboards",
+            "nombre": "Motherboards"
+        }
+    },
+    {
+        "id": 8,
+        "nombre": "MB ASUS AM5 PRIME A620M-A-CSM DDR5 BOX",
+        "precio": 210000,
+        "imagen": "https://www.arrichetta.com.ar/wp-content/uploads/2024/03/962721758a9b450d01ea676acec0ced5-300x300.jpg",
+        "descripcion": "",
+        "initial": 1,
+        "stock": 5,
+        "categoria": {
+            "id": "motherboards",
+            "nombre": "Motherboards"
+        }
+    },
+    {
+        "id": 9,
+        "nombre": "MB ASUS AM5 PRIME B650M-A II-CSM BOX M-",
+        "precio": 295000,
+        "imagen": "https://www.arrichetta.com.ar/wp-content/uploads/2024/03/107738081_7541224059-300x300.jpg",
+        "descripcion": "",
+        "initial": 1,
+        "stock": 5,
+        "categoria": {
+            "id": "motherboards",
+            "nombre": "Motherboards"
+        }
+    },
+    {
+        "id": 10,
+        "nombre": "MB ASUS AM5 ROG STRIX X670E-E GAMING",
+        "precio": 780000,
+        "imagen": "https://www.arrichetta.com.ar/wp-content/uploads/2024/03/101680270_3939657381-300x300.jpg",
+        "descripcion": "",
+        "initial": 1,
+        "stock": 5,
+        "categoria": {
+            "id": "motherboards",
+            "nombre": "Motherboards"
+        }
+    },
+    {
+        "id": 11,
+        "nombre": "MON SAM 49″RG90",
+        "precio": 1830000,
+        "imagen": "https://www.arrichetta.com.ar/wp-content/uploads/2024/04/818jj0DF-dL-300x300.jpg",
+        "descripcion": "",
+        "initial": 1,
+        "stock": 5,
+        "categoria": {
+            "id": "monitores",
+            "nombre": "Monitores"
+        }
+    },
+    {
+        "id": 12,
+        "nombre": "MONITOR 24 CX 236D HDMI / VGA CX",
+        "precio": 130000,
+        "imagen": "https://www.arrichetta.com.ar/wp-content/uploads/2024/04/54169-300x300.jpg",
+        "descripcion": "",
+        "initial": 1,
+        "stock": 5,
+        "categoria": {
+            "id": "monitores",
+            "nombre": "Monitores"
+        }
+    }
+]

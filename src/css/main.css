@@ -1,0 +1,224 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    color-scheme: light dark;
+}
+
+.header {
+    background-color: rgb(247, 168, 21);
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    align-items: center;
+}
+
+.boton-header{
+    color: black;
+    text-decoration: none;   
+}
+
+.container {
+    max-width: 1000px;
+    margin: auto;
+    padding: 2rem;
+    display: flex;
+    gap: 1rem;
+}
+
+.nav {
+    display: flex;
+}
+
+.nav-menu {
+    list-style-type: none;
+    display: flex;
+    gap: 4rem;
+}
+
+.nav-link {
+    color :rgb(3, 3, 3);
+    text-decoration: none;
+
+}
+
+.nav-link.active {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.products-container {
+    min-height: 30vh;
+    display: grid;
+    place-items: center;
+}
+
+.producto-info{
+    min-height: 30vh;
+    display: grid;
+    place-items: center;
+}
+
+.nopunto{
+    list-style: none;
+}
+
+.oscuro {
+    background-color: black !important;
+}
+
+.item-list-container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.productos-grilla {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 1rem;
+}
+
+.producto {
+    background-color: rgb(247, 168, 21);
+    border-radius: .5rem;
+    padding: 1rem;
+    text-align: center;
+}
+
+.boton-vermas{
+    color: rgb(255, 255, 255);
+    text-decoration: none;   
+}
+
+.botones-cantidad{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.btn{
+    height: 25px;
+    width: 25px;
+    background-color: black;
+}
+
+.numcarrito{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+.anadircarrito{
+    color: black;
+    background-color: rgb(255, 255, 255);
+    width: 100px;
+    border-radius: .5rem;
+    cursor: pointer;
+}
+
+.productos-grilla > div > img {
+    height: 200px;
+    width: 200px;
+    border-radius: .5rem;
+}
+
+.grid {
+    display: grid;
+    
+}
+
+footer {
+    margin-top: 30rem;
+}
+
+input{
+	background-color: #fbfbfb; 
+	width: 300px; 
+	height: 40px; 
+	border-radius: 5px;  
+	border-style: solid; 
+	border-width: 1px; 
+	border-color: #000000; 
+	margin-top: 10px;  
+	padding-left: 10px;
+  margin-bottom: 20px; 
+  color: #000000;
+}
+
+textarea{
+    background-color: #fbfbfb; 
+      width: 300px; 
+      height: 150px; 
+      border-radius: 5px;  
+      border-style: solid; 
+      border-width: 1px; 
+      border-color: #000000; 
+      margin-top: 10px;  
+      padding-left: 10px;
+    margin-bottom: 20px; 
+    padding-top: 15px; 
+    color: #000000;
+}
+
+label{
+    display: block; 
+      float: center;
+    
+}
+
+.formulario-contacto{	
+	width: 460px; 
+  height: auto;
+  margin: 80px auto;
+	border-radius: 10px;  
+	padding-top: 30px;
+	padding-bottom: 20px;  
+  background-color: #2a2929; 
+  padding-left: 30px; 
+}
+
+.modal-content {
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 70%;
+    margin: 10px;
+    background-color: #403f3f;
+}
+
+.botones{
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #1d1d1d;
+    text-align: center;
+    cursor: pointer;
+    width: auto;
+    font-size: 18px;
+}
+
+.botoneliminar{
+    border: none;
+    outline: 0;
+    padding: 10px;
+    color: white;
+    background-color: #1d1d1d;
+    text-align: center;
+    cursor: pointer;
+}
+
+.texto-checkout{
+    text-align: center;
+    padding: 10px;
+    background-color: #2a2929;
+}
+
+.fondo {
+    background-size: cover;
+    background-position: center;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+      url("https://media.cdn.sapphiretech.com.cn/-/media/sites/sapphirenation/articles/2021/02/futureproofing-a-gaming-pc-in-2021/gamingpc_banner_800x320.ashx?v=eea2bdbddae849b2aed76890d1cf08aa&h=320&w=800&la=en&hash=4507EFCAE978F94BF089A58831F6E47C19A7A3D3");
+}
